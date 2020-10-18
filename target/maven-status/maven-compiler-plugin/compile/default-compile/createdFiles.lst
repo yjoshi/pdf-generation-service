@@ -1,0 +1,8 @@
+com/mailsender/MailPdfServiceApplication.class
+com/mailsender/service/SendMailService.class
+com/mailsender/controller/PdfController.class
+com/mailsender/service/GeneratePdfService.class
+com/mailsender/config/RabbitConfig.class
+com/mailsender/publisher/Publisher.class
+com/mailsender/listener/Listener.class
+com/mailsender/bean/UserData.class

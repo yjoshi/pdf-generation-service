@@ -1,0 +1,8 @@
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/MailPdfServiceApplication.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/controller/PdfController.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/service/GeneratePdfService.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/service/SendMailService.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/config/RabbitConfig.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/bean/UserData.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/publisher/Publisher.java
+/Users/y0j00zj/Desktop/pdf-generation-service/src/main/java/com/mailsender/listener/Listener.java
